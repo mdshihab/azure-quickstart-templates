@@ -17,7 +17,7 @@
     }
   },
   "variables": {
-    "storageAccountName": "[concat(uniquestring(resourceGroup().id), 'standardsa')]"
+    "storageAccountName": "JYTTest1215"
   },
   "resources": [
     {
